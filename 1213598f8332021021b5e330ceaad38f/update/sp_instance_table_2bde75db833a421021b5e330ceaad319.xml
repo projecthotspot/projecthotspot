@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph>search</glyph>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">c77fa14f83f2021021b5e330ceaad302</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from URL Definition">8ae61f55cb21020000f8d856634c9c93</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 08:54:54</sys_created_on>
+        <sys_id>2bde75db833a421021b5e330ceaad319</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>kurser</sys_name>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_update_name>sp_instance_table_2bde75db833a421021b5e330ceaad319</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 08:57:19</sys_updated_on>
+        <table/>
+        <title>kurser</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"use_instance_title": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"enable_filter": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=2bde75db833a421021b5e330ceaad319"/>
+</record_update>

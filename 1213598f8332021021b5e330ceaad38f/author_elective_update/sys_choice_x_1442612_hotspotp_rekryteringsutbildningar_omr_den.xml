@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="omr_den" table="x_1442612_hotspotp_rekryteringsutbildningar" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>omr_den</element>
+            <name>x_1442612_hotspotp_rekryteringsutbildningar</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 12:48:50</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>omr_den</sys_name>
+            <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+            <sys_update_name>sys_choice_x_1442612_hotspotp_rekryteringsutbildningar_omr_den</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 12:48:50</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>omr_den</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Djur</label>
+            <language>en</language>
+            <name>x_1442612_hotspotp_rekryteringsutbildningar</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 12:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 12:59:15</sys_updated_on>
+            <value>Djur</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>omr_den</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bygg</label>
+            <language>en</language>
+            <name>x_1442612_hotspotp_rekryteringsutbildningar</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 12:59:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 12:59:15</sys_updated_on>
+            <value>Bygg</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

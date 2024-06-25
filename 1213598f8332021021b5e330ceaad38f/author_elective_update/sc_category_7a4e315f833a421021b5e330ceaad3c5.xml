@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog/>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 08:52:31</sys_created_on>
+        <sys_id>7a4e315f833a421021b5e330ceaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT</sys_name>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_update_name>sc_category_7a4e315f833a421021b5e330ceaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 08:52:31</sys_updated_on>
+        <title>IT</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=7a4e315f833a421021b5e330ceaad3c5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</application>
+        <file_path/>
+        <instance_id>7a93bf411b4d8a5039a54089bd4bcb43</instance_id>
+        <instance_name>dev243935</instance_name>
+        <name>sc_category_7a4e315f833a421021b5e330ceaad3c5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-20 08:52:31</sys_created_on><sys_id>7a4e315f833a421021b5e330ceaad3c5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT</sys_name><sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package><sys_policy/><sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope><sys_update_name>sc_category_7a4e315f833a421021b5e330ceaad3c5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-20 08:52:31</sys_updated_on><title>IT</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=7a4e315f833a421021b5e330ceaad3c5"/></record_update>]]></payload>
+        <payload_hash>941796326</payload_hash>
+        <record_name>IT</record_name>
+        <reverted_from/>
+        <source>e213598f8332021021b5e330ceaad393</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 08:52:31</sys_created_on>
+        <sys_id>fc5ef91f833a421021b5e330ceaad320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19034d8f1f40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 08:52:31</sys_updated_on>
+        <type>Category</type>
+        <update_guid>f05ef91f3b3a4210882bb86164613220</update_guid>
+        <update_guid_history>f05ef91f3b3a4210882bb86164613220:941796326</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="IT">f4db829f837a421021b5e330ceaad3e5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 09:51:31</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>7e200a4f57cf4fc0abddc8ee1b1bbc40</sys_id>
+        <sys_metadata>7a4e315f833a421021b5e330ceaad3c5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT</sys_name>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_scope_delete display_value="">10c0a0ffd88447948cbd1700e90eeca4</sys_scope_delete>
+        <sys_update_name>sc_category_7a4e315f833a421021b5e330ceaad3c5</sys_update_name>
+        <sys_update_version display_value="sc_category_7a4e315f833a421021b5e330ceaad3c5">fc5ef91f833a421021b5e330ceaad320</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 09:51:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

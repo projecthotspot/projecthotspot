@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Rekryteringsutbildningar</description>
+        <desktop_continue_shopping/>
+        <desktop_home_page>catalog_default</desktop_home_page>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 07:56:11</sys_created_on>
+        <sys_id>d60131db83f6421021b5e330ceaad3b3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Courses</sys_name>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_update_name>sc_catalog_d60131db83f6421021b5e330ceaad3b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 09:55:41</sys_updated_on>
+        <title>Courses</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=d60131db83f6421021b5e330ceaad3b3"/>
+</record_update>

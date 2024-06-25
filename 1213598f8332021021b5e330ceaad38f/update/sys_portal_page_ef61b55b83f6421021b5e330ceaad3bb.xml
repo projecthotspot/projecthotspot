@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2024-06-25 08:53:20">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 07:56:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef61b55b83f6421021b5e330ceaad3bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_courses</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_update_name>sys_portal_page_ef61b55b83f6421021b5e330ceaad3bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 07:56:11</sys_updated_on>
+        <title>catalog_courses</title>
+        <user/>
+        <view>catalog_courses</view>
+    </sys_portal_page>
+</record_update>

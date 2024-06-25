@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="10555d0b8372021021b5e330ceaad355" label="Company" max_length="40" name="x_1442612_hotspotp_company" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Postadress" max_length="40" name="postadress" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gatuadress" max_length="40" name="gatuadress" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Företgsnamn" max_length="40" name="f_retgsnamn" type="string"/>
+        <element label="Organisationsnummer" max_length="40" name="organisationsnummer" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Tfn" max_length="40" name="tfn" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Kontaktperson" max_length="40" name="kontaktperson" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sammanfattning" label="Sammanfattning" language="en" table="x_1442612_hotspotp_rekryteringsutbildningar">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sammanfattning</element>
+            <help/>
+            <hint/>
+            <label>Sammanfattning</label>
+            <language>en</language>
+            <name>x_1442612_hotspotp_rekryteringsutbildningar</name>
+            <plural>Sammanfattnings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-19 12:09:56</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sammanfattning</sys_name>
+            <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+            <sys_update_name>sys_documentation_x_1442612_hotspotp_rekryteringsutbildningar_sammanfattning_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-19 12:09:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

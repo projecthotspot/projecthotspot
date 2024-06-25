@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c996d58b8372021021b5e330ceaad30a" label="Applicant" max_length="40" name="x_1442612_hotspotp_applicant" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Personnummer" max_length="40" name="personnummer" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Postadress" max_length="40" name="postadress" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gatuadress" max_length="40" name="gatuadress" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Surname" max_length="40" name="surname" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

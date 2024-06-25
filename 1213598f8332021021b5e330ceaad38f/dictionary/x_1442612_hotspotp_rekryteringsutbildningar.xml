@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e99d99c383b2021021b5e330ceaad3a4" label="Rekryteringsutbildningar" max_length="40" name="x_1442612_hotspotp_rekryteringsutbildningar" type="collection">
+        <element label="Kursnamn" max_length="80" name="kursnamn" type="string"/>
+        <element label="Sammanfattning" max_length="120" name="sammanfattning" type="string"/>
+        <element choice="3" default="Agronomi" label="Bransch" max_length="4000" name="omr_den" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bygg" sequence="1" value="Bygg"/>
+                <element inactive_on_update="false" label="Djur" sequence="0" value="Djur"/>
+            </choice>
+        </element>
+    </element>
+</database>

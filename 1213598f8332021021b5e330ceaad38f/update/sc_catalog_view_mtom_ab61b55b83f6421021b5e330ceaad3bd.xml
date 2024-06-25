@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="Courses">d60131db83f6421021b5e330ceaad3b3</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-20 07:56:11</sys_created_on>
+        <sys_id>ab61b55b83f6421021b5e330ceaad3bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Courses.catalog_courses</sys_name>
+        <sys_package display_value="HotSpotPaxxMediaTest" source="x_1442612_hotspotp">1213598f8332021021b5e330ceaad38f</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_courses">ef61b55b83f6421021b5e330ceaad3bb</sys_portal_page>
+        <sys_scope display_value="HotSpotPaxxMediaTest">1213598f8332021021b5e330ceaad38f</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_ab61b55b83f6421021b5e330ceaad3bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-20 07:56:11</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

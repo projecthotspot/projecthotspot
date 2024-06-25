@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3929adc383f2021021b5e330ceaad38c" label="Bransch" max_length="40" name="x_1442612_hotspotp_bransch" type="collection">
+        <element label="Branschnamn" max_length="80" name="branschnamn" type="string"/>
+    </element>
+</database>
